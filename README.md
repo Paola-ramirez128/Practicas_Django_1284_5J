@@ -13,4 +13,7 @@ Aquí se realizan las practicas en Django que es un Framework Marco de trabajo U
 - 11 Crear el proyecto en python Django -->  django-admin startproject cbtis1281284 .
 - 12 Ejecutar  el servidor --> python manage.py runserver
 - 13 Realizar migracion --> python manage.py migrate
-- 14 Volver a correr servidor 
+- 14 Volver a correr servidor
+
+- ![image](https://github.com/user-attachments/assets/a653750a-6506-4c25-8977-0d56cd027a3f)
+
