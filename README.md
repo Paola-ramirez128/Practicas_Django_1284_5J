@@ -16,4 +16,6 @@ Aquí se realizan las practicas en Django que es un Framework Marco de trabajo U
 - 14 Volver a correr servidor
 
 - ![image](https://github.com/user-attachments/assets/a653750a-6506-4c25-8977-0d56cd027a3f)
+- ![image](https://github.com/user-attachments/assets/5479148d-43b4-44a6-a23b-0af4d30cf654)
+
 
